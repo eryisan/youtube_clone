@@ -10,7 +10,7 @@
   - input name
 - CSS
   - @import
-  - * selector
+  - *selector
   - box-sizing
   - display: flex
   - justify-content

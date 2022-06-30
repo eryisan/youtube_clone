@@ -1,6 +1,9 @@
 # Step-By-Step Link
 - [Youtube Clone](https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/)
 
+## Learn By Doing
+- [x] [youtube_clone](https://eryisan.github.io/youtube_clone/index.html)
+
 ## Method
 - 实践 ↔ 学习 ↔ 复习
 

@@ -9,25 +9,25 @@
 
 ## To Learn 
 - HTML
-  - link Material Icons
-  - input name
+  - link Material Icons 👌
+  - input name 👌
 - CSS
-  - @import
-  - *selector
-  - box-sizing
+  - @import 👌
+  - *selector 👌
+  - box-sizing 👌
   - display: flex
+  - flex-direction
+  - flex-wrap 
   - justify-content
   - align-items
-  - height: calc(100vh-70px)
-  - overflow-y
-  - @media (max-width: 768px)
-  - outline
-  - line-height
-  - letter-spacing
-  - text-transform
-  - white-space
-  - word-wrap
-  - flex-direction
-  - flex-wrap
-  - object-fit
-  - rem
+  - height: calc(100vh-70px) 👌
+  - overflow-y 👌
+  - @media (max-width: 768px) 👌
+  - outline 👌
+  - line-height 👌
+  - letter-spacing 👌
+  - text-transform 👌
+  - white-space 👌
+  - word-wrap 👌
+  - object-fit 👌
+  - rem 👌 

@@ -1,7 +1,7 @@
-# Step-By-Step Link
+# Step-By-Step
 - [Youtube Clone](https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/)
 
-## Learn By Doing
+## Live Demo
 - [x] [youtube_clone](https://eryisan.github.io/youtube_clone/index.html)
 
 ## Method

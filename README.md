@@ -15,11 +15,11 @@
   - @import 👌
   - *selector 👌
   - box-sizing 👌
-  - display: flex
-  - flex-direction
-  - flex-wrap 
-  - justify-content
-  - align-items
+  - display: flex 👌
+  - flex-direction 👌
+  - flex-wrap  👌
+  - justify-content 👌
+  - align-items 👌
   - height: calc(100vh-70px) 👌
   - overflow-y 👌
   - @media (max-width: 768px) 👌
